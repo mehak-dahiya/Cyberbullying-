@@ -114,9 +114,8 @@ Outputs
 <img width="600" height="500" alt="LSTM_Classifier_confusion_matrix" src="https://github.com/user-attachments/assets/f5116ac8-ee56-4e29-9ef1-35d6da0ef38d" />
 <img width="600" height="500" alt="Logistic_Regression_confusion_matrix" src="https://github.com/user-attachments/assets/22520530-bba3-4bd1-9e42-db90c345b050" />
 <img width="600" height="500" alt="Linear_SVM_confusion_matrix" src="https://github.com/user-attachments/assets/361397e1-372b-4fff-abe4-a17bf31e5e48" />
-<img width="600" height="400" alt="class_count" src="https://github.com/user-attachments/assets/e63523a2-6964-4378-8a53-1cae301beb5c" />
 <img width="600" height="500" alt="BERT_Pipeline_confusion_matrix" src="https://github.com/user-attachments/assets/4612fa67-e05d-4577-950a-5d1ac009e1d6" />
 <img width="1000" height="600" alt="model_performance_comparison" src="https://github.com/user-attachments/assets/ac555fd3-9529-4053-8445-5d3b2178f8e1" />
 <img width="640" height="480" alt="wordcloud" src="https://github.com/user-attachments/assets/68dea3ef-04db-4210-911d-546b57b52152" />
-
+<img width="600" height="400" alt="class_count" src="https://github.com/user-attachments/assets/e63523a2-6964-4378-8a53-1cae301beb5c" />
 
